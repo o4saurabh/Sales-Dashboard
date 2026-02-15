@@ -83,7 +83,7 @@ Measured impact of transaction volume on overall sales
 Assessed customer satisfaction using rating distribution
 
 📸 Dashboard Preview
-![Customer Analysis Dashboard](https://raw.githubusercontent.com/o4saurabh/customer_analysis/main/sales_dashboard.png)
+![Sales Dashboard](https://raw.githubusercontent.com/o4saurabh/Sales_Analysis/main/Sales_Dashboard.png)
 
 
 🎯 Project Objective
